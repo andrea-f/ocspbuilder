@@ -1,6 +1,6 @@
 # ocspbuilder
 
-Forked from https://github.com/wbond/ocspbuilder, added in v10.3 multi certificates option in the OCSP Response.
+Forked from https://github.com/wbond/ocspbuilder, added in v10.3 multi certificates option in the OCSP Response to conform with RFC6960.
 
 A Python library for creating and signing online certificate status protocol
 (OCSP) requests and responses for X.509 certificates.
